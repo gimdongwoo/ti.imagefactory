@@ -15,4 +15,4 @@ name: imagefactory
 moduleid: ti.imagefactory
 guid: 0aab25d7-0486-40ab-94a3-ed4f9a293414
 platform: android
-minsdk: 3.2.2.GA
+minsdk: 3.5.1.GA
