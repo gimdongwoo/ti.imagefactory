@@ -1,0 +1,3 @@
+"/Users/InGrowth/Documents/Projects/Ti-imagefactory/android/build/generated/java/ti/imagefactory/ImageFactoryBootstrap.java"
+"/Users/InGrowth/Documents/Projects/Ti-imagefactory/android/src/ti/imagefactory/ImageFactory.java"
+"/Users/InGrowth/Documents/Projects/Ti-imagefactory/android/src/ti/imagefactory/ImageFactoryModule.java"
